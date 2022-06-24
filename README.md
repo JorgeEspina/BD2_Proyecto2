@@ -8,11 +8,11 @@
 | JOSUÉ DAVID ZEA HERRERA     | 201807159 |
 | KENNI MARTINEZ              |           |
 
-| Motor de Base de datos:     | Name     | IP           | Sistema Operativo |
-| --------------------------- | ---------|--------------| ----------------- |
-| SQL SERVER				  | IMDB	 |35.193.226.141|  Linux 20.04 LTS  |
-| SQL SERVER   				  | NETFLIX  |34.67.166.0   |  Linux 20.04 LTS  |
-| MONGO        				  |          |              |                   |
+| Motor de Base de datos:     | Name     | IP           | Sistema Operativo | Password      |
+| --------------------------- | ---------|--------------| ----------------- | ------------- |
+| SQL SERVER				  | IMDB	 |35.193.226.141|  Linux 20.04 LTS  | BD2Proyecto2. |
+| SQL SERVER   				  | NETFLIX  |34.67.166.0   |  Linux 20.04 LTS  | BD2Proyecto2. |
+| MONGO        				  |          |              |                   | BD2Proyecto2. |
 
 ## Archivos de Carga
 	https://drive.google.com/drive/folders/1Czwn-gv6zVXZF1tWyeKkl-Qi-_6K2N9g?usp=sharing
