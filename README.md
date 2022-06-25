@@ -16,3 +16,10 @@
 
 ## Archivos de Carga
 	https://drive.google.com/drive/folders/1Czwn-gv6zVXZF1tWyeKkl-Qi-_6K2N9g?usp=sharing
+	
+## Install SQL Server Ubuntu 20.04 LTS
+	https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16
+	
+## Documentacion Linked Server
+	https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-addlinkedserver-transact-sql?view=sql-server-ver16
+	
