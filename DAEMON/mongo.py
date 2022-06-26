@@ -42,7 +42,7 @@ def first():
     while True:
         collection.drop()
         insert_data()
-        sleep(15)
+        sleep(60)
 
 daemon = Daemonize(app="run_netflix", pid=pid, action=first())
 daemon.start()

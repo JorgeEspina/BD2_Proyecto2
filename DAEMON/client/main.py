@@ -2,7 +2,6 @@ import json
 import pymssql  
 from pymongo import MongoClient
 from pprint import pprint
-import pandas as pd
 
 client = MongoClient('mongodb+srv://db2_p2:8XdKTBUCq4vi3ODF@cluster0.dfzgh5g.mongodb.net/?retryWrites=true&w=majority')
 
