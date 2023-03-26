@@ -15,7 +15,7 @@
 | MONGO        				  | DB2_MONGODB         |cluster0.dfzgh5g.mongodb.net| Linux 20.04 LTS                  | 8XdKTBUCq4vi3ODF |
 
 ## Archivos de Carga
-	https://drive.google.com/drive/folders/1Czwn-gv6zVXZF1tWyeKkl-Qi-_6K2N9g?usp=sharing
+	https://drive.google.com/drive/folders/1s6TeCrXeIv55IRdPQiOdUbiZvRJJ4qxy?usp=share_link
 	
 ## Install SQL Server Ubuntu 20.04 LTS
 	https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver16
